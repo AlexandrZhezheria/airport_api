@@ -6,13 +6,15 @@ API service for airport management written on DRF
 - JWT authenticated
 - Admin panel /admin/
 - Documentation is located at /api/doc/swagger/
-- Creating airplanes with airplanes type
+- Creating airplanes with airplane type
 - Creating route and airports
 - Creating crew and flights!
 - Order system
 
 ## Installing using GitHub:
 Install PostgresSQL and create db
+
+![DB Structure](http(s)://AlexandrZhezheria/airport_api/blob/order_app/Screenshot_4.jpg))
 
 1. Clone the repository:
 
@@ -82,4 +84,4 @@ email = admin@admin.com
 password = 1ghbkerb1
 ```
 
-or register you own user via /api/users/ and get access token
+or register your own user via /api/users/ and get access token
