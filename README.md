@@ -14,7 +14,14 @@ API service for airport management written on DRF
 ## Installing using GitHub:
 Install PostgresSQL and create db
 
-![DB Structure](http(s)://AlexandrZhezheria/airport_api/blob/order_app/Screenshot_4.jpg))
+<details>
+<summary>DB Structure</summary>
+ 
+[![DB Structure][1]][1]
+ 
+[1]: https://AlexandrZhezheria/airport_api/blob/develop/Screenshot_4.jpg
+ 
+</details>
 
 1. Clone the repository:
 
